@@ -1,49 +1,25 @@
 #EXTM3U
-#EXTINF:-1,CA: CBC HD
-http://redcoliptv.com:8090/concert/concert/16309
-#EXTINF:-1,CA: CBC
-http://redcoliptv.com:8090/concert/concert/16314
-#EXTINF:-1,CA: HBO 1
-http://redcoliptv.com:8090/concert/concert/16326
-#EXTINF:-1,CA: HBO 2 HD
-http://redcoliptv.com:8090/concert/concert/16327
-#EXTINF:-1,CA: National Geographic HD
-http://redcoliptv.com:8090/concert/concert/16329c
-#EXTINF:-1,CA| CNN
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60137
-#EXTINF:-1,CA| CNN HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60138
-#EXTINF:-1,CA| CNN INTERNATIONAL HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60139
-#EXTINF:-1,CA| COMEDY HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60140
-#EXTINF:-1,CA| CTV COMEDY
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60153
-#EXTINF:-1,CA| CTV NEWS | SD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60155
-#EXTINF:-1,CA| CTV SCIFI
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60156
-#EXTINF:-1,CA| CTV TWO | SD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60158
-#EXTINF:-1,CA| DISCOVERY
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60162
-#EXTINF:-1,CA| DISCOVERY HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60163
-#EXTINF:-1,CA| DISCOVERY SCIENCE HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60164
-#EXTINF:-1,CA| GLOBAL  HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60178
-#EXTINF:-1,CA| HBO 1
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60181
-#EXTINF:-1,CA| HBO 2
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60182
-#EXTINF:-1,CA| HBO 2 HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60183
-#EXTINF:-1,CA| HBO HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60184
-#EXTINF:-1,CA| MTV 2 HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60193
-#EXTINF:-1,CA| NAT GEO HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60195
-#EXTINF:-1,CA| NAT GEO WILD HD
-http://grubaozel.teknoyardim.ml:1997/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/60196
+#EXTINF:-1,CA | BBC CANADA
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160833
+#EXTINF:-1,CA | BBC Earth HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160834
+#EXTINF:-1,CA | CBC
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160847
+#EXTINF:-1,CA | CBC HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160848
+#EXTINF:-1,CA | CBC News Network
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160858
+#EXTINF:-1,CA | CBC NEWS HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160859
+#EXTINF:-1,CA | CNN HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160875
+#EXTINF:-1,CA | CNN INTERNATIONAL
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160876
+#EXTINF:-1,CA | CTV News HD
+http://dragon2020.com:8080/admin_500465/8rSdnAxW/160900
+#EXTINF:-1,ABC NY
+http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/1
+#EXTINF:-1,CBS NY
+http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/2
+#EXTINF:-1,NBC NY
+http://xtream.encohd.co:25461/AxYXdji6Kv/7uRFri5Z45/3
